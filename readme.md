@@ -1,7 +1,7 @@
 
 # Journese
 
-Journese is your all-in-one travel companion, enabling you to post trips, connect with fellow travelers, chat, discover new places, and schedule shared journeys, all within a single mobile application
+Journese is a travel and social networking project developed using React Native with Expo.
 
 ## Table of Contents
 * [Features](#features)
