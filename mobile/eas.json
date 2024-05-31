@@ -1,0 +1,25 @@
+{
+  "build": {
+    "development-simulator": {
+      "node": "20.5.1",
+      "developmentClient": true,
+      "distribution": "internal",
+      "ios": {
+        "simulator": true
+      }
+    },
+    "development": {
+      "node": "20.5.1",
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "distribution": "internal"
+    },
+    "production": {
+      "node": "20.5.1",
+      "developmentClient": true,
+      "distribution": "internal"
+    }
+  }
+}
