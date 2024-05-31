@@ -19,34 +19,34 @@ You can look for all the preview pics in the preview pics folder.
 Here are some screenshots of the app
 - **Auth:**
 <div style="display: flex; justify-content: space-between;">
-  <img src="./pics/auth/signin.png" width="100" />
-  <img src="./pics/auth/otp.png" width="100" />
-  <img src="./pics/auth/verify.png" width="100" /> 
-  <img src="./pics/auth/menu-option.png" width="100" />
+  <img src="./pics/auth/signin.png" width="150" />
+  <img src="./pics/auth/otp.png" width="150" />
+  <img src="./pics/auth/verify.png" width="150" /> 
+  <img src="./pics/auth/menu-option.png" width="150" />
 </div>
 
 - **Place discovery:**
 <div style="display: flex; justify-content: space-between;">
-  <img src="./pics/places/explore.png" width="100" />
-  <img src="./pics/places/fav-place.png" width="100" />
-  <img src="./pics/places/fav-province.png" width="100" /> 
-  <img src="./pics/places/place-detail.png" width="100" />
+  <img src="./pics/places/explore.png" width="150" />
+  <img src="./pics/places/fav-place.png" width="150" />
+  <img src="./pics/places/fav-province.png" width="150" /> 
+  <img src="./pics/places/place-detail.png" width="150" />
 </div>
 
 - **Social functionality:**
 <div style="display: flex; justify-content: space-around;">
-  <img src="./pics/social/post.png" style={object-fit:cover;} width="100" />
-  <img src="./pics/social/create-post.png" width="100" />
-  <img src="./pics/social/chat-group.png" width="300" />
+  <img src="./pics/social/post.png" style={object-fit:cover;} width="150" />
+  <img src="./pics/social/create-post.png" width="150" />
+  <img src="./pics/social/chat-group.png" width="350" />
 </div>
 
 - **Travel together:**
 <div style="display: flex; justify-content: space-between; margin-bottom: 10px">
-  <img src="./pics/trip/real-time-tracking.png" width="300" />
-   <img src="./pics/trip/trip-started.png" width="300" />
+  <img src="./pics/trip/real-time-tracking.png" width="350" />
+   <img src="./pics/trip/trip-started.png" width="350" />
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="./pics/trip/navigation.png" width="300" />
-   <img src="./pics/trip/direction-to-a-place.png" width="300" />
+  <img src="./pics/trip/navigation.png" width="350" />
+   <img src="./pics/trip/direction-to-a-place.png" width="350" />
 </div>
  
